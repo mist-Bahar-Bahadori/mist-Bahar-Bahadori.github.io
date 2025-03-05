@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5teOQtazSSV" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Coherence Principle in E-Learning</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Coherence_Principle_in_E-Learning_ORG">
+    <organization identifier="Coherence_Principle_in_E-Learning_ORG">
+      <title>Coherence Principle in E-Learning</title>
+      <item identifier="Coherence_Principle_in_E-Learning_SCO" isvisible="true" identifierref="__5teOQtazSSV_RES">
+        <title>Coherence Principle in E-Learning</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5teOQtazSSV_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5k85Y3Y9qST_P_0_222_1024_578.jpg" />
+      <file href="mobile/6EfEhDaPozi.png" />
+      <file href="story_content/5Xvcuv1ZCG5_44100_48_0.mp3" />
+      <file href="story_content/6jM6u1DJVlc_captions.js" />
+      <file href="mobile/5w2grjkX5Bi.jpg" />
+      <file href="story_content/5YhL1u8uA4U_44100_48_0.mp3" />
+      <file href="story_content/5ipKMK2tqVz_captions.js" />
+      <file href="mobile/5k85Y3Y9qST.jpg" />
+      <file href="story_content/66PmaITgWaW_44100_48_0.mp3" />
+      <file href="story_content/6HU3ogDdXUK_captions.js" />
+      <file href="mobile/6KiV5FFNU2u.jpg" />
+      <file href="story_content/697BhEhMFkL_44100_48_0.mp3" />
+      <file href="story_content/5zAHbMzGkVt_captions.js" />
+      <file href="mobile/5tNgcC3ut5S.jpg" />
+      <file href="story_content/6TPFSlatfaF_44100_48_0.mp3" />
+      <file href="story_content/6gG3j0CFVji_captions.js" />
+      <file href="story_content/6H5bMyUbRpc.html" />
+      <file href="mobile/6H5bMyUbRpc6Zdm9pxPPfM{Width=677.6667, Height=381.1875}Light.png" />
+      <file href="story_content/6LJGxhUE2vs_44100_48_0.mp3" />
+      <file href="story_content/6Dn94U8bC8j_captions.js" />
+      <file href="mobile/6JgmZFlPwDH.png" />
+      <file href="story_content/6loVHK4CnSU_44100_48_0.mp3" />
+      <file href="story_content/6VxD5T0jwiC_captions.js" />
+      <file href="mobile/5dxLjiGxTWT.png" />
+      <file href="story_content/6qQptuChnUc_44100_48_0.mp3" />
+      <file href="story_content/6DuQRuK4Bx1_captions.js" />
+      <file href="mobile/6CC3p3ZZmBP.png" />
+      <file href="story_content/6jrG4un7bWT_44100_48_0.mp3" />
+      <file href="story_content/6Q3BWHyqn4S_captions.js" />
+      <file href="mobile/5xQkzIHBW3d.png" />
+      <file href="mobile/6iFxvw2y3DS.png" />
+      <file href="mobile/67IZiTM43L1.png" />
+      <file href="story_content/5k0jC0cJCI4_44100_48_0.mp3" />
+      <file href="story_content/679jI6c6MLR_captions.js" />
+      <file href="story_content/6fxUR3jrTuR_44100_48_0.mp3" />
+      <file href="story_content/5qqOgQpMULz_captions.js" />
+      <file href="story_content/6CWNMQLqN5T_44100_48_0.mp3" />
+      <file href="story_content/5Y4joT6JDWP_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6lAyZnCTUDw.png" />
+      <file href="mobile/txt__default_6nPOovz7Tzp.png" />
+      <file href="mobile/txt__default_63WhYfSqLoB.png" />
+      <file href="mobile/txt__default_6hQhWBF1G9S.png" />
+      <file href="mobile/txt__default_5dYVvgo825i.png" />
+      <file href="mobile/txt__default_6oyExaxXKFx.png" />
+      <file href="mobile/txt__default_68oe2817Kix.png" />
+      <file href="mobile/txt__default_6jqGs9ljiRW.png" />
+      <file href="mobile/txt__default_5a7D03bghi7.png" />
+      <file href="mobile/txt__default_6oiBNnBZcj3.png" />
+      <file href="mobile/txt__default_5ZvhIt4SdcR.png" />
+      <file href="mobile/txt__default_6mB2cZEtzc4.png" />
+      <file href="mobile/txt__default_5qrAfeYtRgr.png" />
+      <file href="mobile/txt__default_6NLGLUw9Qzj.png" />
+      <file href="mobile/txt__default_6c5a8HnlVAg.png" />
+      <file href="mobile/txt__default_5vxrAq7wdDM.png" />
+      <file href="mobile/txt__default_6Ql8wKfKLfP.png" />
+      <file href="mobile/txt__default_6JttZ8t9Thf.png" />
+      <file href="mobile/txt__default_5bbxbt2QzWC.png" />
+      <file href="mobile/txt__default_61VwXkBXhSn.png" />
+      <file href="mobile/txt__default_5nKjhO8XZ80.png" />
+      <file href="mobile/txt__default_6n2fyA91JqQ.png" />
+      <file href="mobile/txt__default_5duiQ2RNJcf.png" />
+      <file href="mobile/txt__default_5uqqYHC7tBe.png" />
+      <file href="mobile/txt__default_6bdCNpK7G1h.png" />
+      <file href="mobile/txt__default_6Tq2AlFIOp9.png" />
+      <file href="mobile/txt__default_5kRphi2uNUh.png" />
+      <file href="mobile/txt__default_5r56XVqUa9q.png" />
+      <file href="mobile/txt__default_5nBWBlcUJ0n.png" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5c8wJi1KNx8.js" />
+      <file href="html5/data/js/6R0TMycRApD.js" />
+      <file href="html5/data/js/6K9AYAFBPND.js" />
+      <file href="html5/data/js/64kL8baZ31n.js" />
+      <file href="html5/data/js/6K4EWsvgmGM.js" />
+      <file href="html5/data/js/6BCj51PKTk5.js" />
+      <file href="html5/data/js/6pyQgJlDQxv.js" />
+      <file href="html5/data/js/6LcM1dGjysa.js" />
+      <file href="html5/data/js/6L6X1NUYHTl.js" />
+      <file href="html5/data/js/5fEYYahId13.js" />
+      <file href="html5/data/js/5WOrAZaYEKf.js" />
+      <file href="html5/data/js/6dQfZdoveTM.js" />
+      <file href="html5/data/js/5dHtrq3FIMi.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/js/6LJhoZZDJDu.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/5vaR0mcFMLK.js" />
+      <file href="html5/data/js/6Edv1bDzLnN.js" />
+      <file href="html5/data/js/5u7KpaYwTH7.js" />
+      <file href="html5/data/js/6rlnZYOOGJx.js" />
+      <file href="html5/data/js/5peNFyixCjx.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
