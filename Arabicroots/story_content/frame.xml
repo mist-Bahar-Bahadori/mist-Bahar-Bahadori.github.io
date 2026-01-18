@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="npnxnanbnsnfns00000100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" preventUpscale="true" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
+<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="npnxnanbnsnfns00010100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" preventUpscale="true" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
   <layouts>
-    <layout name="npnxnanbsnfns00000100101" font="Lato" controllayout="npnxnanbsnfns00000100101" colorscheme="npnxnanbnsnfns00000100101" string_table="npnxnanbnsnfns00000100101" />
-    <layout name="pxabnsnfns00000100101" font="Lato" controllayout="pxabnsnfns00000100101" colorscheme="npnxnanbnsnfns00000100101" string_table="npnxnanbnsnfns00000100101" />
-    <layout name="npxnabnsnfns00000100101" font="Lato" controllayout="npxnabnsnfns00000100101" colorscheme="npnxnanbnsnfns00000100101" string_table="npnxnanbnsnfns00000100101" />
-    <layout name="npnxnanbnsnfns00000100101" font="Lato" controllayout="npnxnanbnsnfns00000100101" colorscheme="npnxnanbnsnfns00000100101" string_table="npnxnanbnsnfns00000100101" />
-    <layout name="pxabnsnfns00000100100" font="Lato" controllayout="pxabnsnfns00000100100" colorscheme="npnxnanbnsnfns00000100101" string_table="npnxnanbnsnfns00000100101" />
+    <layout name="npnxnanbsnfns00010100101" font="Lato" controllayout="npnxnanbsnfns00010100101" colorscheme="npnxnanbnsnfns00010100101" string_table="npnxnanbnsnfns00010100101" />
+    <layout name="pxabnsnfns00010100101" font="Lato" controllayout="pxabnsnfns00010100101" colorscheme="npnxnanbnsnfns00010100101" string_table="npnxnanbnsnfns00010100101" />
+    <layout name="npxnabnsnfns00010100101" font="Lato" controllayout="npxnabnsnfns00010100101" colorscheme="npnxnanbnsnfns00010100101" string_table="npnxnanbnsnfns00010100101" />
+    <layout name="npnxnanbnsnfns00010100101" font="Lato" controllayout="npnxnanbnsnfns00010100101" colorscheme="npnxnanbnsnfns00010100101" string_table="npnxnanbnsnfns00010100101" />
+    <layout name="pxabnsnfns00010100100" font="Lato" controllayout="pxabnsnfns00010100100" colorscheme="npnxnanbnsnfns00010100101" string_table="npnxnanbnsnfns00010100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -66,7 +66,7 @@
               <option name="readonlyOnce" value="false" />
             </options>
           </option>
-          <option name="pauseplay" value="false" />
+          <option name="pauseplay" value="true" />
           <option name="replay" value="false" />
           <option name="search" value="false" />
           <option name="closed_captions" value="true" />
@@ -100,11 +100,11 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns00000100101">
+    <control_layout name="npnxnanbsnfns00010100101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
+      <control name="pauseplay" enabled="true" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
       <control name="next" enabled="false" />
@@ -125,11 +125,11 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00000100101">
+    <control_layout name="pxabnsnfns00010100101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
+      <control name="pauseplay" enabled="true" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="true" />
       <control name="next" enabled="true" />
@@ -150,11 +150,11 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns00000100101">
+    <control_layout name="npxnabnsnfns00010100101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
+      <control name="pauseplay" enabled="true" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
       <control name="next" enabled="true" />
@@ -175,11 +175,11 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns00000100101">
+    <control_layout name="npnxnanbnsnfns00010100101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
+      <control name="pauseplay" enabled="true" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
       <control name="next" enabled="false" />
@@ -200,11 +200,11 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00000100100">
+    <control_layout name="pxabnsnfns00010100100">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
+      <control name="pauseplay" enabled="true" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="true" />
       <control name="next" enabled="true" />
@@ -227,7 +227,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="npnxnanbnsnfns00000100101">
+    <colorscheme name="npnxnanbnsnfns00010100101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1404,7 +1404,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="npnxnanbnsnfns00000100101">
+    <string_table name="npnxnanbnsnfns00010100101">
       <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
       <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
       <string id="acc_correct_choice">%answer% (correct choice)</string>
@@ -1589,47 +1589,34 @@
           <links>
             <slidelink slideid="_player.63izQzXyafv.6cfVtjdH01y" displaytext="Title" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.6H2rEYfyh3L" displaytext="Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.63izQzXyafv.6Z9fuTQbY13" displaytext="Objectives" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.65f4vHWEdle" displaytext="History of the Integration of Arabic into Farsi" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.6QqhQHQqCCR" displaytext="Why learning Arabic morphology" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.6Qn0B0HZxDj" displaytext="Introducing trilateral roots" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.6oLJ2u0R5mp" displaytext="Arabic measures in Farsi" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.65NPSssbF5v" displaytext="Semester I- Measures" expand="false" type="slide" />
+            <slidelink slideid="_player.63izQzXyafv.6n85TAy9HKA" displaytext="فعال" expand="false" type="slide" />
+            <slidelink slideid="_player.63izQzXyafv.66rndxLpFg0" displaytext="Wrap-Up" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.5lqj7A1JFA1" displaytext="افعال" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.5rb1ESwHJWs" displaytext="Practice 1 افعال" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.5mKNFhoxpiA" displaytext="Practice 2 افعال" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.6YPDCEi9uaU" displaytext="Practice 1 فعول" expand="false" type="slide" />
+            <slidelink slideid="_player.63izQzXyafv.6Zu94O8TFo9" displaytext="Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.63izQzXyafv.6pJhLzZazAq" displaytext="Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.63izQzXyafv.6mQTHA3DmKi" displaytext="Drag and Drop" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.5ef8zAlPtvM" displaytext="فاعل" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.5nYDsqBOlUw" displaytext="Practice 1 فاعل" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.6AO8bU56sku" displaytext="فواعل" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.6H2Ibk3uSTf" displaytext="Practice 1 فواعل" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.6Zq9KHDYU2a" displaytext="مفعول" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.6ihbZ4DV73n" displaytext="Practice 1 مفعول" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.6GiGmXH22ZZ" displaytext="فعول" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.6iQrmkrHBjQ" displaytext="فعیل" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.6Cn5TQv2HDE" displaytext="Practice 1 فعیل" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.5z56yo53c1W" displaytext="مفعل" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.6BAyeeT454l" displaytext="Practice 1 مفعل" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.6n85TAy9HKA" displaytext="فعال" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.6LP4fNhWbgi" displaytext="Practice 1 فعال" expand="false" type="slide" />
+            <slidelink slideid="_player.63izQzXyafv.6AO8bU56sku" displaytext="فواعل" expand="false" type="slide" />
+            <slidelink slideid="_player.63izQzXyafv.5eQutgmIB81" displaytext="مفعول" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.6XiGxE0IufR" displaytext="Semester II Measures " expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.5Zt5zuqtClF" displaytext="Practice 1 تفاعل" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.6VVfF1WOcdU" displaytext="فعال/ مفاعله" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.6PGt8lCapcK" displaytext="Practice 1 فعال/ مفاعله" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.6iLCh7CU0h2" displaytext="افعال" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.5jE8YIG1Nxr" displaytext="Practice 1 افعال" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.6PHxxD63LDq" displaytext="تفعل" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.6OuimYl5Sde" displaytext="Practice 1 تفعل" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.6X5EWfHj3Bp" displaytext="تفاعل" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.5ZHfbEfoD72" displaytext="تفعیل" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.6hZsjfOIVei" displaytext="Practice 1 تفعیل" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.5favEzZ84GH" displaytext="انفعال" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.6gaZi8sxiEP" displaytext="Practice 1 انفعال" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.6Rk97TTInW1" displaytext="افتعال" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.6brDb9xt9Jm" displaytext="Practice 1 افتعال" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.5v6ANIZrxJD" displaytext="افعلال" expand="false" type="slide" />
             <slidelink slideid="_player.63izQzXyafv.5VRBD5NsmVz" displaytext="استعفال" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.6gTqK2Bo94H" displaytext="Practice 1 استعفال" expand="false" type="slide" />
-            <slidelink slideid="_player.63izQzXyafv.5Yg8wkEwGkI" displaytext="Practice 1 افعلال" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
